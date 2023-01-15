@@ -1,0 +1,9 @@
+{
+    "name": "Shoe In The Harbor - Modpack",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "A modpack for the Shoe In The Harbor Valheim server.",
+    "dependencies": [
+		"denikson-BepInExPack_Valheim-5.4.1901"
+    ]
+}
